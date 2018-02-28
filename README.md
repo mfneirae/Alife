@@ -12,7 +12,7 @@ bla
 bla
 bla
 bla
-### What is life
+### What is life?
 Life could be defined as a space time patron.
 
 ## TL;DR
