@@ -6,13 +6,13 @@ In this repository you will find a compilation of class notes and useful concept
 [**TL;DR**](#tldr)
 
 [**Useful-Definitions**](#useful-definitions)
-* [**1 - Life**](#what-is-life?)
+* [**1 - Life**](#what-is-life)
 ## Useful Definitions:
 bla
 bla
 bla
 bla
-### What is life?
+### What is life
 Life could be defined as a space time patron.
 
 ## TL;DR
