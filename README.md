@@ -7,12 +7,18 @@ In this repository you will find a compilation of class notes and useful concept
 
 [**Useful-Definitions**](#useful-definitions)
 * [**1 - Life**](#what-is-life)
+* [**1 - Complex**](#define-a-complex-system)
+* [**1 - Complicated**](#define-a-complicated-system)
+* [**1 - Fractals**](#what-is-a-fractal)
 ## Useful Definitions:
-bla
-bla
-bla
-bla
+Here you will find some resumed definitions that are needed to understand the basics of the final project.
 ### What is life?
+Life could be defined as a space time patron.
+### Define a Complex System
+Life could be defined as a space time patron.
+### Define a Complicated System
+Life could be defined as a space time patron.
+### What is a Fractal?
 Life could be defined as a space time patron.
 
 ## TL;DR
