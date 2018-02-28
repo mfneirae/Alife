@@ -5,8 +5,8 @@ In this repository you will find a compilation of class notes and useful concept
 ## Table of Contents
 [**TL;DR**](#tldr)
 
-[**Useful-Definitions**](#Useful-Definitions)
-* [**1 - Life**](#Wat-is-life?)
+[**Useful-Definitions**](#useful-definitions)
+* [**1 - Life**](#what-is-life?)
 ## Useful Definitions:
 bla
 bla
