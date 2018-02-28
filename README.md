@@ -6,14 +6,14 @@ In this repository you will find a compilation of class notes and useful concept
 [**TL;DR**](#tldr)
 
 [**Useful-Definitions**](#Useful-Definitions)
-* [**2 - Definitions**](#Useful-Definitions)
+* [**1 - Life**](#Wat-is-life?)
 ## Useful Definitions:
-
 bla
 bla
 bla
 bla
-bla
+### What is life?
+Life could be defined as a space time patron.
 
 ## TL;DR
   Nerd Fonts takes popular programming fonts and adds a bunch of Glyphs.
