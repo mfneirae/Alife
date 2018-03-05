@@ -4,6 +4,7 @@
 In this repository you will find a compilation of class notes and useful concepts that could help to understand the bases the course of Artificial Life oriented by [Jonathan Gomez Perdomo](http://dis.unal.edu.co/~jgomezpe/) in the [Universidad Nacional de Colombia](http://unal.edu.co/).
 
 **IMPORTANT NOTE:**
+
 To use this scripts is neccesary to install the next libraries to your python:
 ```
 pip install matplotlib
