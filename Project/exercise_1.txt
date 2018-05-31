@@ -1,0 +1,80 @@
+
+#############################################################################
+      Copyright (c) 2018 mfneirae.com All Rights Reserved.
+
+               This work  is licensed under a Creative Commons
+      Attribution-NonCommercial - ShareAlike 4.0 International
+      License and MIT Licence.
+
+      by Manuel Neira Embus.
+
+      For more information write me to jai@mfneirae.com
+      Or visit my webpage at https://mfneirae.com/
+#############################################################################
+
+-----------------------------------------------------------
+First line: [~]$ cd ruby
+-----------------------------------------------------------
+[~]$        -> Prompt
+cd          -> Command
+ruby        -> Argument
+
+-----------------------------------------------------------
+Second line: [ruby]$ ls -a
+-----------------------------------------------------------
+[ruby]$     -> Prompt
+ls          -> Command
+-a          -> Option
+
+-----------------------------------------------------------
+Third and fourth lines
+-----------------------------------------------------------
+Nothing here, just a list of files and folders as results
+of call ls command.
+
+-----------------------------------------------------------
+Fifth line: [ruby]$ rm -f .DS_Store
+-----------------------------------------------------------
+[ruby]$     -> Prompt
+rm          -> Command
+-f          -> Option
+.DS_Store   -> Argument
+
+-----------------------------------------------------------
+Sixth line: [ruby]$ ls -a
+-----------------------------------------------------------
+Equals to line second line.
+[ruby]$     -> Prompt
+ls          -> Command
+-a          -> Option
+
+-----------------------------------------------------------
+Seventh and eighth lines
+-----------------------------------------------------------
+Equals to line third line, a list of folders as results of
+call ls command after remove .DS_Store.
+
+-----------------------------------------------------------
+Ninth line: [ruby]$ cd projects
+-----------------------------------------------------------
+[ruby]$     -> Prompt
+cd          -> Command
+projects    -> Argument
+
+-----------------------------------------------------------
+Tenth line: [projects]$ pwd
+-----------------------------------------------------------
+[projects]$ -> Prompt
+pwd         -> Command
+
+-----------------------------------------------------------
+Eleventh line: /Users/mhartl/ruby/projects
+-----------------------------------------------------------
+Nothing here, just the current location in Disk were prompt
+is executing lines of code, as result of the command PWD.
+
+-----------------------------------------------------------
+Twelfth line: [projects]$ [cursor]
+-----------------------------------------------------------
+[projects]$ -> Prompt
+[cursor]    -> Cursor

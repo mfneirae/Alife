@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/2dworld.unity
-  isLoaded: 1
-  isActive: 1
