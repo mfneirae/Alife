@@ -15,10 +15,10 @@ sudo apt install ubuntu-unity-desktop
 * [**2 - Predador**](#predador)
 * [**3 - Presa**](#presa)
 * [**4 - Comida**](#comida)
-* [**5 - Transformaciones Afines**](#Tr)
-* [**6 - Movimiento de Boids**](#what-is-a-fractal)
-* [**7 - Turing Morph**](#what-is-a-fractal)
-* [**8 - Código Genético**](#what-is-a-fractal)
+* [**5 - Transformaciones Afines**](#transformaciones-afines)
+* [**6 - Comportamiento de Boids**](#comportamiento-de-boids)
+* [**7 - Turing Morph**](#turing-morph)
+* [**8 - Código Genético**](#código-genético)
 * [**9 - Evolución**](#what-is-a-fractal)
 
 
@@ -67,11 +67,21 @@ Se utilizaron transformaciones no lineales tipo ojo de pescado, cuyos parámetro
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Transform.PNG?alt=media&token=f7b3b518-6834-455b-b4ea-61659899c646)
 
-### Fractal dimension
-Fractals in generall have non integer dimension, for example, using the Koch curve we could demostrate that:
-* A line has only one dimension:
+### Comportamiento de boids
+Las [reglas](https://www.red3d.com/cwr/boids/) usadas para el comportamiento de boids corresponden a:
 
-* A square has only two dimensions:
-* A cube has only three dimensions:
+* No estar demasiado cerca a otro Oka.
+* Moverse en direcciones similares promediadas a las de los Oka que lo rodean.
+* Alinearse con los Oka que lo rodean.
+* Si sus niveles de hambre llegan a un 50% debe dirigirse a la comida más cercana sin importar si sale del enjambre.
+* Si un depredador se acerca a su rango de visión debe huír, siempre y cuando su nivel de hambre no llegue a niveles críticos, en este caso se dirigirá directo a la comida más cercana sin importar si se acerca al depredador.
+* Si tiene niveles de comida suficientes debe buscar a la pareja que más se asemeje a si mismo para reproducirse.
 
-## Code Description:
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/boid.PNG?alt=media&token=b15a551c-5d78-461a-a0a1-c95ac5eacf00)
+## Turing Morph
+El modelo utilizado en el proyecto se centró en lo planteado en [Turing Patterns](http://www.degeneratestate.org/posts/2017/May/05/turing-patterns/), por lo que se usó reacción difusión para generar las pieles de cada uno de los individuos en cada generación.
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Turing.PNG?alt=media&token=aa106cf0-d2c4-4f01-bf13-a1188e57877f)
+
+## Código Genético
+El modelo utilizado en el proyecto se centró en lo planteado en [Turing
