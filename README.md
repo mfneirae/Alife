@@ -1,7 +1,9 @@
 # Alife 2018-01
 #### Author: Manuel Embus
 
-IEn este repositorio encontrará el proyecto final de la asignatura [Vida Artificial](http://dis.unal.edu.co/profesores/jgomezpe/courses/alife/index.html), dirigida por [Jonathan Gomez Perdomo](http://dis.unal.edu.co/~jgomezpe/) en la [Universidad Nacional de Colombia](http://unal.edu.co/).
+[![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/youtube.PNG?alt=media&token=7a9106ae-4615-4708-b8f7-e93efc6e61b1)](https://www.youtube.com/watch?v=eit-tyV-eZc)
+
+En este repositorio encontrará el proyecto final de la asignatura [Vida Artificial](http://dis.unal.edu.co/profesores/jgomezpe/courses/alife/index.html), dirigida por [Jonathan Gomez Perdomo](http://dis.unal.edu.co/~jgomezpe/) en la [Universidad Nacional de Colombia](http://unal.edu.co/).
 
 **INFORMACIÓN IMPORTANTE:**
 
@@ -18,8 +20,7 @@ sudo apt install ubuntu-unity-desktop
 * [**5 - Transformaciones Afines**](#transformaciones-afines)
 * [**6 - Comportamiento de Boids**](#comportamiento-de-boids)
 * [**7 - Turing Morph**](#turing-morph)
-* [**8 - Código Genético**](#código-genético)
-* [**9 - Evolución**](#what-is-a-fractal)
+* [**8 - Código Genético y Reproducción**](#código-genético-y-reproducción)
 
 
 
@@ -83,5 +84,11 @@ El modelo utilizado en el proyecto se centró en lo planteado en [Turing Pattern
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Turing.PNG?alt=media&token=aa106cf0-d2c4-4f01-bf13-a1188e57877f)
 
-## Código Genético
-El modelo utilizado en el proyecto se centró en lo planteado en [Turing
+## Código Genético y Reproducción
+Cada individuo cuenta con un código genético de cuarenta carateres distribuidos de la siguiente forma:
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/gen.PNG?alt=media&token=d02b208f-dfe0-4ef5-bda6-2ef462c4f837)
+
+La pareja con la cual se reproducirá dependerá de que cumpla con una semejanza de por lo menos el 60%. Por cara pareja de padres, se crea una pareja de hijos a través del [crossover](https://la.mathworks.com/help/gads/how-the-genetic-algorithm-works.html), luego quedan inhabilitados para reproducirse nuevamente, sin embargo, según su vida máxima y metabolismo podrán perdurar durante una o más generaciones.
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Reproduction.PNG?alt=media&token=26790f77-9397-43ef-943d-18b7edb964f1)
