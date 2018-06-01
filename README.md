@@ -13,8 +13,8 @@ sudo apt install ubuntu-unity-desktop
 ## Tabla de contenido
 * [**1 - Lindenmayer Systems**](#lindenmayer-systems)
 * [**2 - Predador**](#predador)
-* [**3 - Presa**](#define-a-complicated-system)
-* [**4 - Comida**](#what-is-a-fractal)
+* [**3 - Presa**](#presa)
+* [**4 - Comida**](#comida)
 * [**5 - Transformaciones Afines**](#what-is-a-fractal)
 * [**6 - Movimiento de Boids**](#what-is-a-fractal)
 * [**7 - Turing Morph**](#what-is-a-fractal)
@@ -33,7 +33,7 @@ Además, se generó el código para graficar figuras de tipo *phillotaxis* con e
 ![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Phylo.PNG?alt=media&token=fa53d15c-d383-4a57-96f3-6b3a9b9dd13c)
 
 ### Predador
-Se creó un depredador cuya especie se denominaron: los Osun, debido al nombre del orisha [Osun](https://es.wikipedia.org/wiki/Osun) de la religión Yoruba, como dato curioso:
+Se creó un depredador cuya especie se denominaron: los Osun, debido al nombre del orisha [Osun](https://cubayoruba.blogspot.com/2007/01/osun.html) de la religión Yoruba, como dato curioso:
 
 ```
 Durante los ritos de santería la figura de Osun,
@@ -45,10 +45,19 @@ rondando a su dueño.
 ```
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/osun.PNG?alt=media&token=5911b36b-57f3-4ee0-a726-56c3a88a5399)
-### What is Artificial?
-Something could be called artificial if to exist requires to be mediated for intelligence
 
-### Define a Complex System
+### Presa
+Como presas, se creó la especie de los Oko, debido al nombre del orisha [Oke](https://cubayoruba.blogspot.com/2007/01/oke.html) de la religión Yoruba, como dato curioso:
+
+```
+Oko es la deidad de la agricultura en la cultura
+Yoruba, simboliza la fertilidad, la  firmeza de
+la madre tierra, la curación y los misterios del
+Olofin.
+```
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Oka.PNG?alt=media&token=38387e06-04d8-401b-a23c-ecba670139be)
+
+### Comida
 A network composed of multiple individuals of the same kind that only interact locally.
 
 ### Define a Complicated System
