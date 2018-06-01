@@ -30,11 +30,21 @@ F = F-F+F+FF-F-F+X
 ```
 Además, se generó el código para graficar figuras de tipo *phillotaxis* con el modelo planar utilizando ángulos de 137.5°. Los resultados se muestran a continuación:
 
-![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Phylo.PNG?alt=media&token=7ad58d59-ce55-42b3-b12a-f49dc6960a02)
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Phylo.PNG?alt=media&token=fa53d15c-d383-4a57-96f3-6b3a9b9dd13c)
 
 ### Predador
-Intelligence could be defined as the ability to solve problems.
+Se creó un depredador cuya especie se denominaron: los Osun, debido al nombre del orisha [Osun](https://es.wikipedia.org/wiki/Osun) de la religión Yoruba, como dato curioso:
 
+```
+Durante los ritos de santería la figura de Osun,
+deidad del panteón Yoruba, debe cologarse encima
+de un ropero, o donde no corra peligro de caer o
+volcarse. Si a pesar de todas las precausiones
+Osun se cae, hay inmintente peligro de muerte
+rondando a su dueño.
+```
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/osun.PNG?alt=media&token=5911b36b-57f3-4ee0-a726-56c3a88a5399)
 ### What is Artificial?
 Something could be called artificial if to exist requires to be mediated for intelligence
 
