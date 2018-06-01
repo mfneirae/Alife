@@ -15,7 +15,7 @@ sudo apt install ubuntu-unity-desktop
 * [**2 - Predador**](#predador)
 * [**3 - Presa**](#presa)
 * [**4 - Comida**](#comida)
-* [**5 - Transformaciones Afines**](#what-is-a-fractal)
+* [**5 - Transformaciones Afines**](#Tr)
 * [**6 - Movimiento de Boids**](#what-is-a-fractal)
 * [**7 - Turing Morph**](#what-is-a-fractal)
 * [**8 - Código Genético**](#what-is-a-fractal)
@@ -58,19 +58,19 @@ Olofin.
 ![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Oka.PNG?alt=media&token=38387e06-04d8-401b-a23c-ecba670139be)
 
 ### Comida
-A network composed of multiple individuals of the same kind that only interact locally.
+La comida se distribuye al rededor de los L-systems por estaciones, lo que implica que no todos los árboles generan comida en un mismo periodo de tiempo, lo que genera comportamientos emergentes como migracione.
 
-### Define a Complicated System
-A network composed of multiple individuals for all kinds that interact in a global way.
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/food.PNG?alt=media&token=d499685f-54b2-44e6-a29e-529d66c615b5)
 
-### What is a Fractal?
-Geometrocal objects generally with non integer dimension that haves self-similarity (contains infinite copies of itself).
-![alt text](https://upload.wikimedia.org/wikipedia/commons/d/d2/M2_1024.png)
+### Transformaciones Afines
+Se utilizaron transformaciones no lineales tipo ojo de pescado, cuyos parámetros son, para la primera generación, seleccionados de forma aleatoria, y luego, a través de un promedio entre las características de los padres.
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Transform.PNG?alt=media&token=f7b3b518-6834-455b-b4ea-61659899c646)
 
 ### Fractal dimension
 Fractals in generall have non integer dimension, for example, using the Koch curve we could demostrate that:
 * A line has only one dimension:
-![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/linedimension.PNG?alt=media&token=a3261fd9-8016-479e-b2de-53ca11543a32)
+
 * A square has only two dimensions:
 * A cube has only three dimensions:
 
