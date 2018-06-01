@@ -12,7 +12,7 @@ sudo apt install ubuntu-unity-desktop
 
 ## Tabla de contenido
 * [**1 - Lindenmayer Systems**](#lindenmayer-systems)
-* [**2 - Predador**](#define-a-complex-system)
+* [**2 - Predador**](#predador)
 * [**3 - Presa**](#define-a-complicated-system)
 * [**4 - Comida**](#what-is-a-fractal)
 * [**5 - Transformaciones Afines**](#what-is-a-fractal)
@@ -32,7 +32,7 @@ Además, se generó el código para graficar figuras de tipo *phillotaxis* con e
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/personalwp-8822c.appspot.com/o/Phylo.PNG?alt=media&token=7ad58d59-ce55-42b3-b12a-f49dc6960a02)
 
-### What is Intelligence?
+### Predador
 Intelligence could be defined as the ability to solve problems.
 
 ### What is Artificial?
